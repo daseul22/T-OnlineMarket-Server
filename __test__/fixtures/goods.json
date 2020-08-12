@@ -1,0 +1,112 @@
+[
+  {
+    "user_id": 3,
+    "goods_name": "푸에고 장미",
+    "goods_type": "장미",
+    "goods_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/goods_img/푸에고 장미.png",
+    "goods_price": 21800,
+    "stock": 90,
+    "info_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/info_img/푸에고 장미 상세.png",
+    "recommend_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/recommend_img/꽃 추천.png",
+    "flower_language": "정열적인 사랑"
+  },
+  {
+    "user_id": 4,
+    "goods_name": "카푸치노 장미",
+    "goods_type": "장미",
+    "goods_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/goods_img/카푸치노 장미.png",
+    "goods_price": 21800,
+    "stock": 80,
+    "info_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/info_img/카푸치노 상세.png",
+    "recommend_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/recommend_img/꽃 추천.png",
+    "flower_language": "가을을 닮은"
+  },
+  {
+    "user_id": 3,
+    "goods_name": "유칼립투스 구니",
+    "goods_type": "유칼립투스",
+    "goods_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/goods_img/유칼립투스 구니.png",
+    "goods_price": 17800,
+    "stock": 70,
+    "info_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/info_img/유칼립투스 상세.png",
+    "recommend_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/recommend_img/꽃 추천.png",
+    "flower_language": "코알라먹이"
+  },
+  {
+    "user_id": 4,
+    "goods_name": "에그타르트 장미",
+    "goods_type": "장미",
+    "goods_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/goods_img/에그타르트 장미.png",
+    "goods_price": 21800,
+    "stock": 98,
+    "info_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/info_img/에그타르트 상세.png",
+    "recommend_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/recommend_img/꽃 추천.png",
+    "flower_language": "우정"
+  },
+  {
+    "user_id": 3,
+    "goods_name": "오렌지 쟈스민",
+    "goods_type": "쟈스민",
+    "goods_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/goods_img/오렌지쟈스민.png",
+    "goods_price": 17800,
+    "stock": 97,
+    "info_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/info_img/오렌지쟈스민 상세.png",
+    "recommend_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/recommend_img/꽃 추천.png",
+    "flower_language": "오렌지향이 난다나"
+  },
+  {
+    "user_id": 3,
+    "goods_name": "유주 꽃나무",
+    "goods_type": "나무",
+    "goods_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/goods_img/유주나무.png",
+    "goods_price": 17800,
+    "stock": 50,
+    "info_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/info_img/유주나무 상세.png",
+    "recommend_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/recommend_img/식물 추천.png",
+    "flower_language": "금귤나무같은거"
+  },
+  {
+    "user_id": 3,
+    "goods_name": "멜라니 고무나무",
+    "goods_type": "나무",
+    "goods_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/goods_img/고무나무.png",
+    "goods_price": 17800,
+    "stock": 60,
+    "info_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/info_img/멜라니고무나무 상세.png",
+    "recommend_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/recommend_img/식물 추천.png",
+    "flower_language": "공기청정기"
+  },
+  {
+    "user_id": 4,
+    "goods_name": "햇살 장미",
+    "goods_type": "장미",
+    "goods_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/goods_img/햇살 장미.png",
+    "goods_price": 21800,
+    "stock": 99,
+    "info_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/info_img/햇살 상세.png",
+    "recommend_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/recommend_img/꽃 추천.png",
+    "flower_language": "따듯한 봄 햇살을 닮은 장미"
+  },
+  {
+    "user_id": 3,
+    "goods_name": "어텀파티 장미",
+    "goods_type": "장미",
+    "goods_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/goods_img/어텀파티 장미.png",
+    "goods_price": 21800,
+    "stock": 68,
+    "info_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/info_img/어텀파티 상세.png",
+    "recommend_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/recommend_img/꽃 추천.png",
+    "flower_language": "첫사랑의 고백"
+  },
+  {
+    "user_id": 3,
+    "goods_name": "크림하트 장미",
+    "goods_type": "장미",
+    "goods_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/goods_img/크림하트 장미.png",
+    "goods_price": 21800,
+    "stock": 100,
+    "info_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/info_img/크림하트 상세.png",
+    "recommend_img": "http://ec2-15-164-219-204.ap-northeast-2.compute.amazonaws.com:4000/images/recommend_img/꽃 추천.png",
+    "flower_language": "향기가 짙은 크리미한 핑크컬러 장미"
+  }
+]

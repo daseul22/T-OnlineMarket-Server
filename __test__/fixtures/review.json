@@ -1,0 +1,58 @@
+[
+  {
+    "user_id": 1,
+    "goods_id": 1,
+    "title": "추천합니다",
+    "contents": "이 제품 너무 좋아요",
+    "star": 4,
+    "review_img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6ce8/9f69b6c2f69e6daa7c28688a214be687d877f9239d3aaf30653db023ed6b.jpg"
+  },
+  {
+    "user_id": 5,
+    "goods_id": 1,
+    "title": "별론데요?",
+    "contents": "캬캬캬캬캬",
+    "star": 1,
+    "review_img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6ce8/9f69b6c2f69e6daa7c28688a214be687d877f9239d3aaf30653db023ed6b.jpg"
+  },
+  {
+    "user_id": 6,
+    "goods_id": 1,
+    "title": "추천합니다",
+    "contents": "아하하하하하",
+    "star": 4,
+    "review_img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6ce8/9f69b6c2f69e6daa7c28688a214be687d877f9239d3aaf30653db023ed6b.jpg"
+  },
+  {
+    "user_id": 1,
+    "goods_id": 4,
+    "title": "추천합니다",
+    "contents": "강추요!",
+    "star": 5,
+    "review_img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6ce8/9f69b6c2f69e6daa7c28688a214be687d877f9239d3aaf30653db023ed6b.jpg"
+  },
+  {
+    "user_id": 1,
+    "goods_id": 3,
+    "title": "우웩",
+    "contents": "완전 별로에요;;",
+    "star": 1,
+    "review_img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6ce8/9f69b6c2f69e6daa7c28688a214be687d877f9239d3aaf30653db023ed6b.jpg"
+  },
+  {
+    "user_id": 5,
+    "goods_id": 3,
+    "title": "아쉬워요",
+    "contents": "꽃이 생기가 없어요ㅠ",
+    "star": 1,
+    "review_img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6ce8/9f69b6c2f69e6daa7c28688a214be687d877f9239d3aaf30653db023ed6b.jpg"
+  },
+  {
+    "user_id": 5,
+    "goods_id": 6,
+    "title": "너무 좋네요",
+    "contents": "최고최고최고!",
+    "star": 5,
+    "review_img": "https://thumbnail6.coupangcdn.com/thumbnails/remote/230x230ex/image/vendor_inventory/6ce8/9f69b6c2f69e6daa7c28688a214be687d877f9239d3aaf30653db023ed6b.jpg"
+  }
+]

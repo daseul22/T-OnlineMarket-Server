@@ -1,0 +1,100 @@
+[
+  {
+    "username": "심코딩",
+    "email": "consumer1@gmail.com",
+    "password": "1234",
+    "phone": "010-1234-5678",
+    "address": "서울시 OO구 OO로 OOO, 상세주소",
+    "user_type": 1,
+    "user_admission": 1
+  },
+  {
+    "username": "황코딩",
+    "email": "seller1@gmail.com",
+    "password": "1234",
+    "phone": "010-1234-5678",
+    "address": "서울시 OO구 OO로 OOO, 상세주소",
+    "trade_name": "판매장",
+    "business_number": "000-00-00000",
+    "user_type": 2,
+    "user_admission": 0
+  },
+  {
+    "username": "정코딩",
+    "email": "seller2@gmail.com",
+    "password": "1234",
+    "phone": "010-1234-5678",
+    "address": "서울시 OO구 OO로 OOO, 상세주소",
+    "trade_name": "판매장",
+    "business_number": "000-00-00000",
+    "user_type": 2,
+    "user_admission": 1
+  },
+  {
+    "username": "함코딩",
+    "email": "seller3@gmail.com",
+    "password": "1234",
+    "phone": "010-1234-5678",
+    "address": "서울시 OO구 OO로 OOO, 상세주소",
+    "trade_name": "판매장",
+    "business_number": "000-00-00000",
+    "user_type": 2,
+    "user_admission": 1
+  },
+  {
+    "username": "박코딩",
+    "email": "consumer2@gmail.com",
+    "password": "1234",
+    "phone": "010-1234-5678",
+    "address": "서울시 OO구 OO로 OOO, 상세주소",
+    "user_type": 1,
+    "user_admission": 1
+  },
+  {
+    "username": "이코딩",
+    "email": "consumer3@gmail.com",
+    "password": "1234",
+    "phone": "010-1234-5678",
+    "address": "서울시 OO구 OO로 OOO, 상세주소",
+    "user_type": 1,
+    "user_admission": 1
+  },
+  {
+    "username": "오코딩",
+    "email": "consumer4@gmail.com",
+    "password": "1234",
+    "phone": "010-1234-5678",
+    "address": "서울시 OO구 OO로 OOO, 상세주소",
+    "user_type": 1,
+    "user_admission": 1
+  },
+  {
+    "username": "경코딩",
+    "email": "consumer5@gmail.com",
+    "password": "1234",
+    "phone": "010-1234-5678",
+    "address": "서울시 OO구 OO로 OOO, 상세주소",
+    "user_type": 1,
+    "user_admission": 1
+  },
+  {
+    "username": "장코딩",
+    "email": "consumer6@gmail.com",
+    "password": "1234",
+    "phone": "010-1234-5678",
+    "address": "서울시 OO구 OO로 OOO, 상세주소",
+    "user_type": 1,
+    "user_admission": 1
+  },
+  {
+    "username": "조코딩",
+    "email": "seller4@gmail.com",
+    "password": "1234",
+    "phone": "010-1234-5678",
+    "address": "서울시 OO구 OO로 OOO, 상세주소",
+    "trade_name": "판매장",
+    "business_number": "000-00-00000",
+    "user_type": 2,
+    "user_admission": 1
+  }
+]

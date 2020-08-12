@@ -1,0 +1,56 @@
+[
+  {
+    "user_id": 1,
+    "goods_id": 1,
+    "title": "질문합니다",
+    "contents": "조화인가요? 생화인가요?"
+  },
+  {
+    "user_id": 1,
+    "goods_id": 1,
+    "title": "질문합니다ㅎㅎ",
+    "contents": "배송은 얼마나 걸리나요??"
+  },
+  {
+    "user_id": 7,
+    "goods_id": 1,
+    "title": "질문합니다!!",
+    "contents": "이쁜가요?"
+  },
+  {
+    "user_id": 1,
+    "goods_id": 4,
+    "title": "질문합니다!!",
+    "contents": "이쁜가요?"
+  },
+  {
+    "user_id": 1,
+    "goods_id": 5,
+    "title": "질문합니다!!",
+    "contents": "이쁜가요?"
+  },
+  {
+    "user_id": 5,
+    "goods_id": 5,
+    "title": "질문합니다!!",
+    "contents": "얼마에요?"
+  },
+  {
+    "user_id": 5,
+    "goods_id": 6,
+    "title": "질문있어요",
+    "contents": "한송이씩도 파나요??"
+  },
+  {
+    "user_id": 6,
+    "goods_id": 7,
+    "title": "이건 무슨 꽃이에요?",
+    "contents": "조화인가요 생화인가요?"
+  },
+  {
+    "user_id": 7,
+    "goods_id": 8,
+    "title": "배송 속도는 어느정도인가요?",
+    "contents": "내일까지 오나요?"
+  }
+]
